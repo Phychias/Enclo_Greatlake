@@ -1,0 +1,10 @@
+{
+  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
+  "obsidian-prism-theme@@color-scheme-style-dt": "pt-color-scheme-style-minimal-dt",
+  "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-plain-dt",
+  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-purple-dt",
+  "obsidian-prism-theme@@highlight-text-accent-dt": "pt-highlight-text-custom-dt",
+  "obsidian-prism-theme@@highlight-text-accent-custom-dt": "#C0E5FF",
+  "obsidian-prism-theme@@radius-m": 4,
+  "obsidian-prism-theme@@pt-focused-mode": true
+}

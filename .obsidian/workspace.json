@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "d6347db484a28011",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd981d046671a205",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70e4145ce0fe8930",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a87e8b147c2b5618",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b7cc06a6acc8783",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aab51c5dd938e91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0892ddbc1578d1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d61b473ec2444a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "533d8be5fde6cbc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "baf5fcc83035b0a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1053471d90e66f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "090163d112cc1fe8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6aaec466696e345b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6fc214f476d4d3e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false
+    }
+  },
+  "active": "2aab51c5dd938e91",
+  "lastOpenFiles": [
+    "物种/目录/精灵科.md",
+    "物种/目录/生物（实体）.md",
+    "物种/目录/水栖纲.md",
+    "物种/目录/有血门.md",
+    "物种/目录/有翼纲.md",
+    "物种/目录/有生界.md",
+    "物种/目录/无血门.md",
+    "物种/目录/无生界.md",
+    "物种/目录/哺乳纲.md",
+    "物种/目录/众奇门.md",
+    "物种/灵兽/灵兽.md",
+    "物种/灵兽/力量之神-山熊神-托恩.md",
+    "物种/有生/天空精灵.md",
+    "物种/有生/大地精灵.md",
+    "物种/无生/马铃薯.md",
+    "物种/目录",
+    "物种/灵兽",
+    "物种/有生",
+    "物种/无生",
+    "物种",
+    "模版/模版1.md",
+    "模版",
+    "历史/精灵起源.md",
+    "历史",
+    "地理/地点/神顿之地.md",
+    "地理/地点/卢娜平原.md",
+    "地理/行政区",
+    "地理/科伦尼亚.md",
+    "地理/拉提尔.md",
+    "地理/地点",
+    "地理/丹红.md",
+    "地理",
+    "博物/文化/鹿角琴.md",
+    "模版.md",
+    "物种/未命名.md"
+  ]
+}

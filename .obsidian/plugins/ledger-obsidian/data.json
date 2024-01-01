@@ -1,0 +1,9 @@
+{
+  "tutorialIndex": 0,
+  "currencySymbol": "$",
+  "ledgerFile": "记账.ledger",
+  "assetAccountsPrefix": "资产",
+  "expenseAccountsPrefix": "支出",
+  "incomeAccountsPrefix": "收入",
+  "liabilityAccountsPrefix": "负债"
+}
