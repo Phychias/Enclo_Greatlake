@@ -8,71 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77d928ed77e78292",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "物种/目录/哺乳纲.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b9eff98789605fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "物种/目录/有翼纲.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd1c9ce40e4b55f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "物种/目录/精灵科.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70e4145ce0fe8930",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "0383a5fcd2fa18d3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "653ff713a9ab92e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "物种/魔兽/毒舌兽.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2d41d01cfe26dd86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "物种/有生/原始精灵.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc92184c8b8ca58a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -80,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,37 +153,38 @@
       "publish:发布更改": false
     }
   },
-  "active": "2d41d01cfe26dd86",
+  "active": "dc92184c8b8ca58a",
   "lastOpenFiles": [
+    "物种/有生/塔拉人.md",
+    "物种/有生/维因人.md",
+    "物种/有生/天空精灵.md",
+    "物种/有生/大地精灵.md",
+    "历史/精灵起源.md",
+    "物种/有生/狐人.md",
+    "七姑娘森林.md",
+    "物种/有生/原始精灵.md",
+    "物种/目录/兽人科.md",
+    "阿尼兽人.md",
+    "物种/有生/矮人.md",
+    "物种/目录/类人科.md",
+    "物种/有生/湖人鱼与海鱼人.md",
+    "物种/有生/狼人.md",
+    "物种/目录/人科.md",
+    "物种/无生/马铃薯.md",
+    "物种/魔兽/凝胶蜗.md",
     "物种/魔兽/轰蹄.md",
+    "物种/魔兽/毒舌兽.md",
+    "物种/目录/精灵科.md",
+    "物种/目录/有翼纲.md",
     "图片/轰蹄.png",
-    "物种/有生/阿尼兽人.md",
     "图片/毒舌兽.png",
     "物种/魔兽",
     "图片",
-    "物种/魔兽/毒舌兽.md",
-    "物种/有生/原始精灵.md",
-    "物种/目录/精灵科.md",
     "地理/地点/大回廊巨型洞窟.md",
     "物种/灵兽/灵兽.md",
     "物种/灵兽/力量之神-山熊神-托恩.md",
-    "物种/无生/马铃薯.md",
     "物种/无生/百里香.md",
-    "物种/有生/维因人.md",
     "README.md",
-    "物种/有生/天空精灵.md",
-    "物种/有生/狼人.md",
-    "物种/有生/湖人鱼与海鱼人.md",
-    "物种/有生/狐人.md",
-    "物种/有生/大地精灵.md",
-    "物种/目录/哺乳纲.md",
-    "历史/精灵起源.md",
-    "地理/行政区/逐蝶.md",
-    "地理/地点/图鲁斯特恩.md",
-    "地理/地点/契尔刻洛瓦.md",
-    "地理/地点/卢娜.md",
-    "地理/地点/萨塞恩.md",
-    "地理/地点/喀拉喀拉.md",
     "地理/地貌/未命名",
     "博物/文化",
     "物种/目录",
